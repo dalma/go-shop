@@ -1,2 +1,2 @@
 # go-shop
-A demo stack 
+A demo stack with golang
